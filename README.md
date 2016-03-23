@@ -1,6 +1,6 @@
 # Week-9-Test
 
-**Name at least two things to check for debugging for when your code isn’t working (bonus points for more then two)**
+**Name at least two things to check for debugging for when your code isn’t working (bonus points for more then two). Hints: x, ___ element, _____ lines, matching,...**
 
 [answer]
 
